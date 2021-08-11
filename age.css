@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+    
+    
+}
+#mainDiv
+{
+    background-color:lemonchiffon;
+  position: absolute;
+  left: 36%;
+  top: 10%;
+  width: 400px;
+  height: 600px;
+  border: 2px solid red;
+  border-radius: 20px;
+        
+}
+#result1
+{
+  color: blue;
+}
+h1{
+    font-family: 'Palette Mosaic', cursive
+  }
+  b
